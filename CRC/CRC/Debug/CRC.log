@@ -1,0 +1,13 @@
+﻿  CRC.cpp
+C:\Users\User\Desktop\RC\TEMA1\CRC\CRC\CRC.cpp(17,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\RC\TEMA1\CRC\CRC\CRC.cpp(23,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\RC\TEMA1\CRC\CRC\CRC.cpp(49,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\RC\TEMA1\CRC\CRC\CRC.cpp(74,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\RC\TEMA1\CRC\CRC\CRC.cpp(84,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\RC\TEMA1\CRC\CRC\CRC.cpp(104,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\RC\TEMA1\CRC\CRC\CRC.cpp(108,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\RC\TEMA1\CRC\CRC\CRC.cpp(118,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\RC\TEMA1\CRC\CRC\CRC.cpp(121,71): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\RC\TEMA1\CRC\CRC\CRC.cpp(55,9): warning C4101: 'binar': unreferenced local variable
+C:\Users\User\Desktop\RC\TEMA1\CRC\CRC\CRC.cpp(43): warning C4715: 'XOR': not all control paths return a value
+  CRC.vcxproj -> C:\Users\User\Desktop\RC\TEMA1\CRC\Debug\CRC.exe
